@@ -1,5 +1,6 @@
 HANDS ON EXERCISE 
 Edit this text file by adding answers to the following questions 
+Keep a lookout for the time limit
 
 1> When was IITBSSP Founded?
 ANS>
@@ -22,7 +23,7 @@ ANS>
 6> Name all the Project Managers you know
 ANS>
 
-7> Create a directory called src in the repo and add a python script that prints "All hail <Your Name?" at 1Hz
+7> For this question you have to create a directory called src in the repo and add a python script that prints "All hail <Your Name>!" at 1Hz
 
 8> Ask the presenter to shift to the next slide and answer the question on the slide
 ANS>
