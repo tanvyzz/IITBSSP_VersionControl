@@ -1,0 +1,30 @@
+HANDS ON EXERCISE 
+Edit this text file by adding answers to the following questions 
+
+1> When was IITBSSP Founded?
+ANS>
+
+2> Pratham Budget
+ANS>
+
+3> How many models of the satellite were made. Name them
+ANS>
+
+3> Name the current Faculty Advisors of IITBSSP
+ANS>
+
+4> We had a collaboration with another University for Pratham. Which country/city was this university in?
+ANS>
+
+5> What is the motto on the IITBSSP Logo
+ANS>
+
+6> Name all the Project Managers you know
+ANS>
+
+7> Create a directory called src in the repo and add a python script that prints "All hail <Your Name?" at 1Hz
+
+8> Ask the presenter to shift to the next slide and answer the question on the slide
+ANS>
+
+DONE!
