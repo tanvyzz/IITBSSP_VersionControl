@@ -3,29 +3,29 @@ Edit this text file by adding answers to the following questions
 Keep a lookout for the time limit
 
 1> When was IITBSSP Founded?
-ANS>
+ANS> 2008
 
 2> Pratham Budget
-ANS>
+ANS> 2rs
 
 3> How many models of the satellite were made. Name them
-ANS>
+ANS> 132986726. cant name sorry
 
 3> Name the current Faculty Advisors of IITBSSP
-ANS>
+ANS> aero dude
 
 4> We had a collaboration with another University for Pratham. Which country/city was this university in?
-ANS>
+ANS> idk
 
 5> What is the motto on the IITBSSP Logo
-ANS>
+ANS> adish anataya whatever taht means 
 
 6> Name all the Project Managers you know
-ANS>
+ANS> ameya rishab (tanvi)
 
 7> For this question you have to create a directory called "src" in the repo and add a python script that prints "All hail <Your Name>!" at 1Hz
 
 8> Ask the presenter to shift to the next slide and answer the question on the slide
-ANS>
+ANS> oks
 
 DONE!
